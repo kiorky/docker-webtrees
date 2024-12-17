@@ -4,7 +4,7 @@
 DISCLAIMER
 ============
 
-**UNMAINTAINED/ABANDONED CODE / DO NOT USE**
+**UNMAINTAINED/ABANDONED FORK / DO NOT USE**
 
 Due to the new EU Cyber Resilience Act (as European Union), even if it was implied because there was no more activity, this repository is now explicitly declared unmaintained.
 
